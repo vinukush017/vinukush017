@@ -1,3 +1,6 @@
+# Heyyoo, I'm [Vinay!](https://www.linkedin.com/in/vinaykushwah017/)  
+
+
 - 👋 Hi, I’m Vinay Kushwah
 - 👀 I’m interested in Software Developer 
 - 🌱 I’m currently learning MEAN Stack
