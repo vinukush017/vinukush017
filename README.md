@@ -1,5 +1,3 @@
-# Heyyoo, I'm [Vinay!](https://www.linkedin.com/in/vinaykushwah017/)  
-
 <h1 align="center">Heyyoo, I'm <a href="https://www.linkedin.com/in/vinaykushwah017/" target="_blank">Vinay Kushwah</a> 👋</h1>
 
 <p align="center">
