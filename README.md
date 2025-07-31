@@ -31,30 +31,3 @@ Frontend:  React · Tailwind CSS · Angular · Framer Motion
 Database:  PostgreSQL · MongoDB · Prisma  
 DevOps:    Docker · AWS (EC2/S3) · Vercel · GitHub Actions  
 Tools:     Git · VS Code · Postman · Figma · ESLint · Prettier · Swagger
-
-
-<!-- Other sections like About Me, Tech Stack, etc. -->
-
----
-### 📈 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinukush017&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vinukush017&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinukush017&theme=github_dark" width="95%" />
-</p>
-
----
-### 📬 Let's Connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vinaykushwah017/"><img alt="LinkedIn" src="https://img.shields.io/badge/Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:vinaykushwah017@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://vinay-kushwah.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Visit%20My%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
-<p align="center"><i>“Code is poetry that runs.”</i></p>
-
