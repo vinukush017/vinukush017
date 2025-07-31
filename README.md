@@ -10,7 +10,7 @@
 
 - 👨‍💻 I’m a **Software Developer** with **4 years of experience**
 - ⚙️ I specialize in building scalable **Node.js + React** applications
-- 🌱 Currently diving deeper into the **MEAN Stack**
+- 🌱 Currently diving deeper into the **MERN Stack**
 - 🔍 Always open to learning, mentoring, and collaborating on impactful projects
 
 ---
