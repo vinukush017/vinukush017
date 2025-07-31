@@ -23,8 +23,3 @@ Frontend: React · Tailwind CSS · Angular
 Database: PostgreSQL · MongoDB · Prisma  
 DevOps:   Docker · AWS (EC2/S3) · Vercel · GitHub Actions  
 Tools:    Git · VS Code · Postman · Figma · ESLint
-
-<!---
-vinukush017/vinukush017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
