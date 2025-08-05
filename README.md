@@ -1,7 +1,7 @@
 <h1 align="center">Heyyoo, I'm <a href="https://www.linkedin.com/in/vinaykushwah017/" target="_blank">Vinay Kushwah</a> 👋</h1>
 
 <p align="center">
-  💻 Full Stack Developer | 🧠 Lifelong Learner | 🌍 Building Scalable Web Apps  
+  💻 Full Stack Dev | Portfolio → vinay-kushwah.vercel.app | 🧠 Lifelong Learner | 🌍 Building Scalable Web Apps  
 </p>
 
 <p align="center">
